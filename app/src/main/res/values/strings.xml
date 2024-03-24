@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Who Wants To Be a Millionaire</string>
+
+
+    <string name="question_1">What is the capital of india?</string>
+    <string name="answer_1_1">delhi</string>
+    <string name="answer_1_2">London</string>
+    <string name="answer_1_3">Berlin</string>
+    <string name="answer_1_4">Madrid</string>
+    <string name="correct_answer_1">Paris</string>
+
+    <string name="question_2">Who wrote the play "Romeo and Juliet"?</string>
+    <string name="answer_2_1">William Shakespeare</string>
+    <string name="answer_2_2">Jane Austen</string>
+    <string name="answer_2_3">Charles Dickens</string>
+    <string name="answer_2_4">Mark Twain</string>
+    <string name="correct_answer_2">William Shakespeare</string>
+
+
+
+    <string name="question_3">What is the largest mammal?</string>
+    <string name="answer_3_1">Elephant</string>
+    <string name="answer_3_2">Blue whale</string>
+    <string name="answer_3_3">Giraffe</string>
+    <string name="answer_3_4">Lion</string>
+    <string name="correct_answer_3">Blue whale</string>
+
+
+    <string name="question_4">What is the capital of Japan?</string>
+    <string name="answer_4_1">Tokyo</string>
+    <string name="answer_4_2">Kyoto</string>
+    <string name="answer_4_3">Osaka</string>
+    <string name="answer_4_4">Seoul</string>
+    <string name="correct_answer_4">Tokyo</string>
+
+
+    <string name="question_5">Who painted the Mona Lisa?</string>
+    <string name="answer_5_1">Vincent van Gogh</string>
+    <string name="answer_5_2">Leonardo da Vinci</string>
+    <string name="answer_5_3">Pablo Picasso</string>
+    <string name="answer_5_4">Michelangelo</string>
+    <string name="correct_answer_5">Leonardo da Vinci</string>
+
+    <string name="question_6">What is the largest planet in our solar system?</string>
+    <string name="answer_6_1">Earth</string>
+    <string name="answer_6_2">Mars</string>
+    <string name="answer_6_3">Jupiter</string>
+    <string name="answer_6_4">Saturn</string>
+    <string name="correct_answer_6">Jupiter</string>
+
+
+    <string name="question_7">Who wrote the Harry Potter book series?</string>
+    <string name="answer_7_1">J.K. Rowling</string>
+    <string name="answer_7_2">Stephen King</string>
+    <string name="answer_7_3">George R.R. Martin</string>
+    <string name="answer_7_4">J.R.R. Tolkien</string>
+    <string name="correct_answer_7">J.K. Rowling</string>
+
+
+    <string name="question_8">What is the largest ocean on Earth?</string>
+    <string name="answer_8_1">Atlantic Ocean</string>
+    <string name="answer_8_2">Indian Ocean</string>
+    <string name="answer_8_3">Arctic Ocean</string>
+    <string name="answer_8_4">Pacific Ocean</string>
+    <string name="correct_answer_8">Pacific Ocean</string>
+
+
+    <string name="question_9">Who was the first person to step on the moon?</string>
+    <string name="answer_9_1">Buzz Aldrin</string>
+    <string name="answer_9_2">Neil Armstrong</string>
+    <string name="answer_9_3">Michael Collins</string>
+    <string name="answer_9_4">Yuri Gagarin</string>
+    <string name="correct_answer_9">Neil Armstrong</string>
+
+
+    <string name="question_10">What is the capital of Australia?</string>
+    <string name="answer_10_1">Melbourne</string>
+    <string name="answer_10_2">Canberra</string>
+    <string name="answer_10_3">Sydney</string>
+    <string name="answer_10_4">Perth</string>
+    <string name="correct_answer_10">Canberra</string>
+
+    <string name="amt1">$1000</string>
+    <string name="amt2">$2,000</string>
+    <string name="amt3">$4,000</string>
+    <string name="amt4">$8,000</string>
+    <string name="amt5">$16,000</string>
+    <string name="amt6">$32,000</string>
+    <string name="amt7">$64,000</string>
+    <string name="amt8">$128,000</string>
+    <string name="amt9">$500,000</string>
+    <string name="amt10">$1,000,000</string>
+
+</resources>
